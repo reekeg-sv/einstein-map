@@ -14,3 +14,5 @@ defaults:
       path: ""
     values:
       image: /assets/social-preview.png
+webmaster_verifications:
+  google: l1DyQO51G8p3TipbdmcyQSSybiV2OvmBVncEU3ufXnc
