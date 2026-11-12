@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #0d0d0d;
+  background-image: linear-gradient(120deg, #1c2a44, #3987e5 55%, #9085e9);
+}
+.main-content img { max-width: 100%; border-radius: 10px; }
+.main-content .cta a {
+  display: inline-block; margin: 0 8px 8px 0; padding: 10px 16px; border-radius: 8px;
+  background: #3987e5; color: #fff; font-weight: 600; text-decoration: none;
+}
+.main-content .cta a.second { background: #eef2fb; color: #1c2a44; }
+.main-content .all-guides { margin-top: 28px; font-weight: 600; }

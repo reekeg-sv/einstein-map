@@ -1,0 +1,16 @@
+title: Einstein Map
+description: Persistent memory for OpenAI Codex and Anthropic Claude Code. Reuse context across sessions, search past conversations, share project history between both agents and save tokens. Free for Mac and Windows.
+theme: jekyll-theme-cayman
+lang: en
+url: https://reekeg-sv.github.io
+baseurl: /einstein-map
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+logo: /assets/einstein-map-icon.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/social-preview.png
