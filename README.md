@@ -130,7 +130,7 @@ The **Fact Map** holds what exists in the project. The **Plan Map** holds work, 
 
 ## Data and privacy
 
-Your conversation archive and search stay on your computer. Pro maps are stored encrypted on the Einstein server, and access is restricted to your account.
+Your conversation archive and search stay on your computer. Pro maps are stored on the Einstein server, and access is restricted to your account.
 
 Automatic technical reports contain the program version, system, command counters and errors. They contain no chat text, questions, project names, file paths or keys. To check or turn them off:
 
