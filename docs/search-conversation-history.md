@@ -30,7 +30,7 @@ Each result shows the date, the agent and a fragment of the conversation. To ope
 - The archive and the search stay on your computer, and no API key is needed.
 
 <p class="cta">
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33">Download Einstein Free</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34">Download Einstein Free</a>
   <a class="second" href="{{ '/shared-memory-codex-claude-code/' | relative_url }}">Next: shared memory for both agents</a>
 </p>
 

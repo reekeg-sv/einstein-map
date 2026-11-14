@@ -12,8 +12,8 @@ permalink: /
 Einstein Free is completely free: no account, no subscription, no separate API key and nothing extra to pay for tokens or compaction. It works on Mac and Windows, and your conversation history stays on your computer.
 
 <p class="cta">
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/einstein-free-0.19.33-hybrid-macos-arm64.tar.gz">Download Free for Mac</a>
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/einstein-free-0.19.33-hybrid-windows-x86_64.zip">Download Free for Windows</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/einstein-free-0.19.34-hybrid-macos-arm64.tar.gz">Download Free for Mac</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/einstein-free-0.19.34-hybrid-windows-x86_64.zip">Download Free for Windows</a>
   <a class="second" href="https://einsteinmap.com/pro">Get Pro — free</a>
 </p>
 

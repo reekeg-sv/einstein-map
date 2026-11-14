@@ -21,7 +21,7 @@ Because nothing is lost, you can compact earlier. **We recommend an auto-compact
 
 ## Try it on your own task
 
-1. [Download Einstein Free](https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33) for Mac or Windows and extract the archive.
+1. [Download Einstein Free](https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34) for Mac or Windows and extract the archive.
 2. Ask Claude Code: **“Read INSTALL-AI.md and install Einstein.”**
 3. Start a new chat and ask: *“Find where we stopped when fixing [error name]. Which options did we already try?”*
 
@@ -37,7 +37,7 @@ No. Einstein relies on saved conversations: it cannot restore history that was d
 The memory itself is free. Einstein searches your chats directly on your computer, and only a short hint goes into the agent's context.
 
 <p class="cta">
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33">Download Einstein Free</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34">Download Einstein Free</a>
   <a class="second" href="{{ '/search-conversation-history/' | relative_url }}">Next: search your conversation history</a>
 </p>
 

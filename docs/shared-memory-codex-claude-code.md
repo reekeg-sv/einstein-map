@@ -24,7 +24,7 @@ Search across your local Codex and Claude Code history and hints for both agents
 Free works on one computer. Pro adds the Fact Map and the Plan Map, which you can open in the browser after signing in. Pro is currently free.
 
 <p class="cta">
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33">Download Einstein Free</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34">Download Einstein Free</a>
   <a class="second" href="https://einsteinmap.com/pro">Pro project maps</a>
 </p>
 

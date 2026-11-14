@@ -8,7 +8,7 @@
 
 Einstein Free is completely free: no account, no subscription, no separate API key and nothing extra to pay for tokens or compaction. It works on Mac and Windows, and your conversation history stays on your computer.
 
-**[Download Free for Mac](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/einstein-free-0.19.33-hybrid-macos-arm64.tar.gz)** · **[Download Free for Windows](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/einstein-free-0.19.33-hybrid-windows-x86_64.zip)** · [Get Pro on the website — free](https://einsteinmap.com/pro)
+**[Download Free for Mac](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/einstein-free-0.19.34-hybrid-macos-arm64.tar.gz)** · **[Download Free for Windows](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/einstein-free-0.19.34-hybrid-windows-x86_64.zip)** · [Get Pro on the website — free](https://einsteinmap.com/pro)
 
 **On this page:** [How it works](#how-it-works) · [Token savings](#fewer-repeats-fewer-tokens) · [Free and Pro](#free-and-pro) · [Install](#install-einstein-free) · [Check that it works](#check-that-memory-works) · [Connect Pro](#connect-pro-and-project-maps) · [Privacy](#data-and-privacy) · [FAQ](#faq) · [Guides](#guides) · [Help](#help-and-feedback)
 
@@ -76,7 +76,7 @@ You pay nothing extra for the memory itself. Einstein does not summarize or comp
 | Fact Map and Plan Map | — | Yes |
 | Project maps in the browser | — | Yes |
 | Account required | No | Yes |
-| Where to get it | [GitHub Releases](https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33) | [einsteinmap.com/pro](https://einsteinmap.com/pro) |
+| Where to get it | [GitHub Releases](https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34) | [einsteinmap.com/pro](https://einsteinmap.com/pro) |
 
 Pro is currently free. Current terms are on the [website](https://einsteinmap.com/pro).
 
@@ -84,8 +84,8 @@ Pro is currently free. Current terms are on the [website](https://einsteinmap.co
 
 | System | Package |
 |---|---|
-| Mac with Apple Silicon, macOS 12 or newer | [Download for macOS arm64](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/einstein-free-0.19.33-hybrid-macos-arm64.tar.gz) |
-| Windows 10/11, x86_64 | [Download for Windows x86_64](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/einstein-free-0.19.33-hybrid-windows-x86_64.zip) |
+| Mac with Apple Silicon, macOS 12 or newer | [Download for macOS arm64](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/einstein-free-0.19.34-hybrid-macos-arm64.tar.gz) |
+| Windows 10/11, x86_64 | [Download for Windows x86_64](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/einstein-free-0.19.34-hybrid-windows-x86_64.zip) |
 
 1. Download the package for your system and extract it. Keep the whole `einstein.dist` folder together.
 2. Ask your AI agent: **“Read INSTALL-AI.md in this folder and install Einstein.”** Add “only for Codex” or “only for Claude Code” if you want just one.
@@ -101,7 +101,9 @@ Manual installation: open Terminal or PowerShell inside `einstein.dist`.
 
 To connect only one agent, add `--assistant codex` or `--assistant claude`.
 
-Linux is not supported in this release. Checksums: [SHA256SUMS.txt](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.33/SHA256SUMS.txt).
+Linux is not supported in this release. Checksums: [SHA256SUMS.txt](https://github.com/reekeg-sv/einstein-map/releases/download/v0.19.34/SHA256SUMS.txt).
+
+**Already have Einstein?** Install the new package the same way, over the old one. Your conversation archive, project maps and settings stay where they are. What changed in each version is in the [release notes](https://github.com/reekeg-sv/einstein-map/releases).
 
 ## Check that memory works
 

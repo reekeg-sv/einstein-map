@@ -39,7 +39,7 @@ Actual savings depend on the task and on the history you have accumulated.
 You pay nothing for the memory itself. Einstein Free is free, needs no API key and spends no tokens on summarizing or compressing chats. Only a short record found by search goes into the agent's context.
 
 <p class="cta">
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33">Download Einstein Free</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34">Download Einstein Free</a>
   <a class="second" href="{{ '/search-conversation-history/' | relative_url }}">How to find a past command</a>
 </p>
 

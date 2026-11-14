@@ -16,7 +16,7 @@ In a long project it matters to remember not only the next step but also why it 
 
 ## How to connect Einstein to Codex
 
-1. [Download Einstein Free](https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33) for Mac or Windows and extract the archive.
+1. [Download Einstein Free](https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34) for Mac or Windows and extract the archive.
 2. Ask Codex: **“Read INSTALL-AI.md and install Einstein only for Codex.”** Leave out “only for Codex” if you also use Claude Code.
 3. Open `/hooks`, review and approve the Einstein entries.
 4. Start a new chat and ask about something you have already discussed.
@@ -38,7 +38,7 @@ No. Memory search runs on your computer and needs no separate key. Your Codex su
 Einstein Free has a package for Windows 10/11 (x86_64).
 
 <p class="cta">
-  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.33">Download Einstein Free</a>
+  <a href="https://github.com/reekeg-sv/einstein-map/releases/tag/v0.19.34">Download Einstein Free</a>
   <a class="second" href="https://einsteinmap.com/pro">Pro project maps</a>
 </p>
 
